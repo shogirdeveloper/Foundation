@@ -47,7 +47,7 @@ HTML asoslarini bilib oladilar:
 ## FAQ
 ## Savolni qayerda berishim mumkin?
 
-- Savollarni telegram chatida berish mumkin:  [Telegram bot](https://t.me/ceo_of_shogirdev)
+- Savollarni telegram chatida berish mumkin:  [Telegram guruh](https://t.me/shogird_coworking)
 
 ## Yashash shahri muhimmi? Kursni butunlay onlayn o'tashim mumkinmi?
 
