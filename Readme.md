@@ -12,7 +12,7 @@ HTML asoslarini bilib oladilar:
 
 ## Nazariya
 1. Siz https://ru.code-basics.com/languages/html interaktiv kursni to'ldirishingiz kerak (11 soat)
-2. [HTML va CSS asoslari boʻyicha maʼruza yozuvini tomosha qiling]("")
+2. [HTML va CSS asoslari boʻyicha maʼruza yozuvini tomosha qiling](https://www.youtube.com/channel/UCLHzVpkzBGAYe_pAsQoRZ2w)
 
 ## Amaliyot
 1.
