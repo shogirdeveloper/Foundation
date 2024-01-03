@@ -1,11 +1,11 @@
 # [Shogird Developer](../../) HTML asoslari
 ## Ushbu modulda talabalar:
-HTML asoslarini bilib oling:
-1. Sintaksis
-2. Matn elementlari (paragraflar, havolalar, ro'yxatlar, jadvallar)
-3. Media elementlari (tasvirlar)
-4. HTML hujjatining tuzilishi (semantikasi)
-5. Shakllar bilan ishlash (faqat HTMLda)
+HTML asoslarini bilib oladilar:
+1. Sintaksislar bilan ishlash
+2. Matn elementlari (paragraflar, havolalar, ro'yxatlar, jadvallar) bilan ishlash
+3. Media elementlari (tasvirlar) bilan ishlash
+4. HTML hujjatining tuzilishi (semantikasi) bilan ishlash
+5. Shakllar bilan ishlash (faqat HTMLda) 
 
 ## Modulni bajarish uchun taxminiy vaqt
 12 soat
@@ -28,9 +28,16 @@ HTML asoslarini bilib oling:
 # Kursni boshlaymiz 
 
 ### Asosiy kursning bosqichlari
-- [#1 Modul](./)
-    - [HTML Tutorial](./) 
-
+- [#1 Modul](./1-modul/)
+    - [HTML Tutorial](./1-modul/1-week) 
+    - [HTML Tutorial](./1-modul/2-week) 
+    - [HTML Tutorial](./1-modul/3-week) 
+    - [HTML Tutorial](./1-modul/4-week) 
+- [#2 Modul](./2-modul/)
+    - [HTML Tutorial](./2-modul/1-week) 
+    - [HTML Tutorial](./2-modul/2-week) 
+    - [HTML Tutorial](./2-modul/3-week) 
+    - [HTML Tutorial](./2-modul/4-week)  
 <br/>
     <p aligin="center">
         <img src="https://cdn-edge.kwork.ru/pics/t3/73/13426712-1615540173.jpg" alt="jpg"/>
