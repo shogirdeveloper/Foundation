@@ -28,8 +28,8 @@ HTML asoslarini bilib oling:
 # Kursni boshlaymiz 
 
 ### Asosiy kursning bosqichlari
-- [#1 Modul](./Html%20Tutorial/modul-1/)
-    - [HTML Tutorial](./Html%20Tutorial/modul-1/week-1/) 
+- [#1 Modul](./)
+    - [HTML Tutorial](./) 
 
 <br/>
 <p aligin="center">
