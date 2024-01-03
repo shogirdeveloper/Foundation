@@ -12,10 +12,10 @@ HTML asoslarini bilib oling:
 
 ## Nazariya
 1. Siz https://ru.code-basics.com/languages/html interaktiv kursni to'ldirishingiz kerak (11 soat)
-2. [HTML va CSS asoslari boʻyicha maʼruza yozuvini tomosha qiling](https://youtu.be/4Zj7tRlQJao?list=PLzLiprpVuH8df24MzZp-l5QMsJWJbi9qP)
+2. [HTML va CSS asoslari boʻyicha maʼruza yozuvini tomosha qiling]("")
 
 ## Amaliyot
-1. RS APP > Auto Test-da "HTML asoslarini sinovdan o'tkazish [RU]" testidan o'tishingiz kerak
+1.
 
 ## Qo'shimcha materiallar
 1. https://webref.ru/course/html-basics - 2h
@@ -32,9 +32,9 @@ HTML asoslarini bilib oling:
     - [HTML Tutorial](./) 
 
 <br/>
-<p aligin="center">
-<img src="https://cdn-edge.kwork.ru/pics/t3/73/13426712-1615540173.jpg" alt="jpg"/>
-</p>
+    <p aligin="center">
+        <img src="https://cdn-edge.kwork.ru/pics/t3/73/13426712-1615540173.jpg" alt="jpg"/>
+    </p>
 
 
 ## FAQ
